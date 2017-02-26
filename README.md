@@ -13,6 +13,7 @@ matches are made according to the order of inuput & following the primary 2 cond
 
 As mentioned in the question, only the order of input is considered.the match making doesn't adhere to the girl's criterions of Most Rich,Most intelligent,etc.
 Those criterions will be taken care of in the later installments of the assignment.
+The class diagram had put in the question1. 
 
 
 ********************************************************************************
