@@ -1,0 +1,201 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_121\bin\javadoc.exe
+-sourcepath
+C:\Users\Shubham\Documents\NetBeansProjects\question2
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\Shubham\Documents\NetBeansProjects\question2
+-d
+C:\Users\Shubham\Documents\NetBeansProjects\question2\doc
+-encoding
+windows-1252
+-charset
+windows-1252
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+-doctitle
+question2
+-windowtitle
+question2
+-author
+-version
+-nodeprecated
+-package
+-link
+http://download.oracle.com/javase/8/docs/api/
+src.question2
+<---- end of javadoc command ---->
+Loading source files for package src.question2...
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:143: error: illegal start of type
+    for(int i=0;i<noc;i++){
+    ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:143: error: ')' expected
+    for(int i=0;i<noc;i++){
+             ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:143: error: illegal start of type
+    for(int i=0;i<noc;i++){
+              ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:143: error: <identifier> expected
+    for(int i=0;i<noc;i++){
+               ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:143: error: ';' expected
+    for(int i=0;i<noc;i++){
+                ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:143: error: > expected
+    for(int i=0;i<noc;i++){
+                     ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:143: error: '(' expected
+    for(int i=0;i<noc;i++){
+                       ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:176: error: ';' expected
+                arrc[i].ghap= java.lang.Math.exp(arrc[i].budget-arrc[i].bhap-arrc[i].main) 
+                                                                                          ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:178: error: ';' expected
+            arrc[i].thap=arrc[i]bhap+arrc[i]ghap;
+                                ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:178: error: not a statement
+            arrc[i].thap=arrc[i]bhap+arrc[i]ghap;
+                                    ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:178: error: ';' expected
+            arrc[i].thap=arrc[i]bhap+arrc[i]ghap;
+                                            ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:211: error: ';' expected
+                arrc[i].ghap= java.lang.Math.exp(arrc[i].budget-arrc[i].bhap-arrc[i].main) 
+                                                                                          ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:213: error: ';' expected
+            arrc[i].thap=2*arrc[i]ghap;
+                                  ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:247: error: ';' expected
+                arrc[i].ghap= java.lang.Math.exp(arrc[i].budget-arrc[i].bhap-arrc[i].main) 
+                                                                                          ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:249: error: ';' expected
+            arrc[i].thap=arrc[i].bhap+arrc[i]ghap;
+                                             ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:253: error: illegal start of type
+    for(int i=0;i<nog-1;i++){
+    ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:253: error: ')' expected
+    for(int i=0;i<nog-1;i++){
+             ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:253: error: illegal start of type
+    for(int i=0;i<nog-1;i++){
+              ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:253: error: <identifier> expected
+    for(int i=0;i<nog-1;i++){
+               ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:253: error: ';' expected
+    for(int i=0;i<nog-1;i++){
+                ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:253: error: > expected
+    for(int i=0;i<nog-1;i++){
+                     ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:253: error: <identifier> expected
+    for(int i=0;i<nog-1;i++){
+                      ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:253: error: '(' expected
+    for(int i=0;i<nog-1;i++){
+                       ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:253: error: <identifier> expected
+    for(int i=0;i<nog-1;i++){
+                         ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:253: error: illegal start of type
+    for(int i=0;i<nog-1;i++){
+                           ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:253: error: <identifier> expected
+    for(int i=0;i<nog-1;i++){
+                            ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:253: error: ';' expected
+    for(int i=0;i<nog-1;i++){
+                             ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:255: error: illegal start of type
+        for(int j=0;j<nog-1;j++){
+           ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:255: error: <identifier> expected
+        for(int j=0;j<nog-1;j++){
+            ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:255: error: ';' expected
+        for(int j=0;j<nog-1;j++){
+               ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:255: error: illegal start of type
+        for(int j=0;j<nog-1;j++){
+                 ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:255: error: <identifier> expected
+        for(int j=0;j<nog-1;j++){
+                  ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:255: error: > expected
+        for(int j=0;j<nog-1;j++){
+                         ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:255: error: ';' expected
+        for(int j=0;j<nog-1;j++){
+                          ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:255: error: <identifier> expected
+        for(int j=0;j<nog-1;j++){
+                             ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:255: error: illegal start of type
+        for(int j=0;j<nog-1;j++){
+                               ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:255: error: <identifier> expected
+        for(int j=0;j<nog-1;j++){
+                                ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:255: error: ';' expected
+        for(int j=0;j<nog-1;j++){
+                                 ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:257: error: illegal start of type
+            if(arrc[j].com < arrc[j+1].com){
+              ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:257: error: ']' expected
+            if(arrc[j].com < arrc[j+1].com){
+                    ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:257: error: illegal start of type
+            if(arrc[j].com < arrc[j+1].com){
+                     ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:257: error: <identifier> expected
+            if(arrc[j].com < arrc[j+1].com){
+                      ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:257: error: ';' expected
+            if(arrc[j].com < arrc[j+1].com){
+                       ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:257: error: > expected
+            if(arrc[j].com < arrc[j+1].com){
+                                 ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:257: error: '(' expected
+            if(arrc[j].com < arrc[j+1].com){
+                                   ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:257: error: <identifier> expected
+            if(arrc[j].com < arrc[j+1].com){
+                                          ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:268: error: class, interface, or enum expected
+    }
+    ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:271: error: class, interface, or enum expected
+        DataOutputStream cdosg = new DataOutputStream(cfosg);
+        ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:273: error: class, interface, or enum expected
+        for(int i=0;i<k;i++){
+        ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:273: error: class, interface, or enum expected
+        for(int i=0;i<k;i++){
+                    ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:273: error: class, interface, or enum expected
+        for(int i=0;i<k;i++){
+                        ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:276: error: class, interface, or enum expected
+            System.out.print(" and "+arrc[i].gname );
+            ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:277: error: class, interface, or enum expected
+            System.out.print("\n" );
+            ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:278: error: class, interface, or enum expected
+            cdosg.writeUTF(arrc[i].bname);
+            ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:279: error: class, interface, or enum expected
+            cdosg.writeUTF(arrc[i].gname);
+            ^
+C:\Users\Shubham\Documents\NetBeansProjects\question2\src\question2\Question2.java:281: error: class, interface, or enum expected
+        }
+        ^
+56 errors
