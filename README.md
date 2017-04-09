@@ -1,4 +1,6 @@
 # ppl-assignment-shubham852
+Name : Shubham Bhandari
+Roll : IIT2015083
 ppl-assignment-shubham852 created by GitHub Classroom
 the given program takes input from two files namely girls.txt & boys.txt.
 
