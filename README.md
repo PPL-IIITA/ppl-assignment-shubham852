@@ -6,7 +6,7 @@ question1 takes integer value which denotes the no. of boys or girls whose attri
 
 having stored the obtained attributes in the respective classes , namely girl & boy , the code begins match making
 
-matches are made according to the order of inuput & following the primary 3 conditions.
+matches are made according to the order of inuput & following primary 3 conditions.
 1. maintenence budget of girl should be lesser than the budget of the boy
 2. the minimum requirement of attractiveness of boy should be less than the attractiveness of the girl.
 3. boy should be single. 
