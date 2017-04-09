@@ -1,6 +1,7 @@
 # ppl-assignment-shubham852
 Name : Shubham Bhandari
 Roll : IIT2015083
+Sir due to some mistake you must be seeing that there are two contributors to the repo but it was handled by the same person, due to some technical fault such a situation has arised.
 ppl-assignment-shubham852 created by GitHub Classroom
 the given program takes input from two files namely girls.txt & boys.txt.
 
